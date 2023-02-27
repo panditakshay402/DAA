@@ -8,6 +8,7 @@ void main(){
      for(int i=0; i<n; i++)
      cin>>a[i];
      cout<<a[i];
+     cout<<a[1];
      cout<<"enter search "<<search<<endl;
  for(i=0; i<n; i++)
  {
